@@ -1,4 +1,4 @@
-# GrantWritingRetreat 2025
+# Grant Writing Retreat 2025
 
 ---
 
