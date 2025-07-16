@@ -37,7 +37,7 @@ Please find the presentation slides for each speaker and further resources down 
 | Karen Finney                    | [Perspectives from funders and panels](/Speaker%20presentations/HRfH%20GWR_Perspectives%20from%20Funders%20&%20Panels%20-%20Karen%20Finney.pdf)  |
 | Chris Yau                       | [Perspectives from funders and panels](/Speaker%20presentations/HRfH%20GWR_Perspectives%20from%20Funders%20&%20Panels%20-%20Chris%20Yau.pptx)  |
 | Jane Taylor                     | [Perspectives from funders and panels](/Speaker%20presentations/HRfH%20GWR_Perspectives%20from%20Funders%20&%20Panels%20-%20Jane%20Taylor.pptx) |
-| Cathie Sudlow                   | [LKeynote: The power of ‘big data](/Speaker%20presentations/HRfH%20GWR_Cathie%20Sudlow%20keynote.pd)  |
+| Cathie Sudlow                   | [Keynote: The power of ‘big data](/Speaker%20presentations/HRfH%20GWR_Cathie%20Sudlow%20keynote.pd)  |
 | Dr Sabine van der Veer, Professor David Schultz & Professor Peter Bower              | [Putting pen to paper](/Speaker%20presentations/HRfH%20GWR_Putting%20Pen%20to%20Paper%20-%20SvdV,%20PB%20&%20DS.pptx)  |
 | Will Dixon                      |  [Welcome](/Speaker%20presentations/~$HRfH%20GWR_Welcome%20&%20Overview.pptx)
 
