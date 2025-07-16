@@ -37,7 +37,7 @@ Please find the presentation slides for each speaker and further resources down 
 | Karen Finney                    | [Perspectives from funders and panels](/Speaker%20presentations/HRfH%20GWR_Perspectives%20from%20Funders%20&%20Panels%20-%20Karen%20Finney.pdf)  |
 | Chris Yau                       | [Perspectives from funders and panels](/Speaker%20presentations/HRfH%20GWR_Perspectives%20from%20Funders%20&%20Panels%20-%20Chris%20Yau.pptx)  |
 | Jane Taylor                     | [Perspectives from funders and panels](/Speaker%20presentations/HRfH%20GWR_Perspectives%20from%20Funders%20&%20Panels%20-%20Jane%20Taylor.pptx) |
-| Cathie Sudlow                   | [Keynote: The power of ‘big data](/Speaker%20presentations/HRfH%20GWR_Cathie%20Sudlow%20keynote.pd)  |
+| Cathie Sudlow                   | [Keynote: The power of ‘big data](/Speaker%20presentations/HRfH%20GWR_Cathie%20Sudlow%20keynote.pdf)  |
 | Dr Sabine van der Veer, Professor David Schultz & Professor Peter Bower              | [Putting pen to paper](/Speaker%20presentations/HRfH%20GWR_Putting%20Pen%20to%20Paper%20-%20SvdV,%20PB%20&%20DS.pptx)  |
 | Will Dixon                      |  [Welcome](/Speaker%20presentations/~$HRfH%20GWR_Welcome%20&%20Overview.pptx)
 
@@ -55,6 +55,6 @@ Grant writing tips shared by some of our speakers on our LinkedIn
 
 - [NIHR Domestic Outline Application Form Template](/Resources/domestic-outline-application-form-template.docx)
 - [Gene app and logic model](/Resources/Gene%20app%20and%20logic%20model.pptx)
-- [Logic model guide](/Resources/Logic_Model_Guide_AGA_2262_ARTWORK_FINAL_07.09.16_1.pdfResource)
+- [Logic model guide](/Resources/Logic_Model_Guide_AGA_2262_ARTWORK_FINAL_07.09.16_1.pdf)
 - [Population and systemsmedicine: research grant](/Resources/Population%20and%20systems%20medicine_%20research%20grant%20–%20UKRI.pdf)
 - [Research plan template domestic](/Resources/Research%20Plan%20Template_Domestic.docx)
