@@ -3,13 +3,3 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Grant Writing Retreat
-
-include:
-  - "Speaker presentations/HRfH GWR_PPIE Talk.pptx"
-  - "Speaker presentations/HRfH GWR_Perspectives from Funders & Panels - Chris Yau.pptx"
-  - "Speaker presentations/HRfH GWR_Perspectives from Funders & Panels - Jane Taylor.pptx"
-  - "Speaker presentations/HRfH GWR_Perspectives from Funders & Panels - Karen Finney.pdf"
-  - "Speaker presentations/HRfH GWR_PPIE Talk.pptx"
-  - "Speaker presentations/HRfH GWR_Putting Pen to Paper - SvdV, PB & DS.pptx"
-  - "Speaker presentations/HRfH GWR_Tech Clinic - RD, AF & YR.pdf"
-  - "Speaker presentations/HRfH GWR_Welcome & Overview.pptx"
