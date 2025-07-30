@@ -58,3 +58,59 @@ Grant writing tips shared by some of our speakers on our LinkedIn
 - [Logic model guide](/Resources/Logic_Model_Guide_AGA_2262_ARTWORK_FINAL_07.09.16_1.pdf)
 - [Population and systemsmedicine: research grant](/Resources/Population%20and%20systems%20medicine_%20research%20grant%20–%20UKRI.pdf)
 - [Research plan template domestic](/Resources/Research%20Plan%20Template_Domestic.docx)
+
+
+# Photos
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px;">
+  <img src="Photos/DSC_0842.jpg" alt="DSC_0842" style="width:100%">
+  <img src="Photos/DSC_0844.jpg" alt="DSC_0844" style="width:100%">
+  <img src="Photos/DSC_0847.jpg" alt="DSC_0847" style="width:100%">
+  <img src="Photos/DSC_0851.jpg" alt="DSC_0851" style="width:100%">
+  <img src="Photos/DSC_0855.jpg" alt="DSC_0855" style="width:100%">
+  <img src="Photos/DSC_0863.jpg" alt="DSC_0863" style="width:100%">
+  <img src="Photos/DSC_0867.jpg" alt="DSC_0867" style="width:100%">
+  <img src="Photos/DSC_0871.jpg" alt="DSC_0871" style="width:100%">
+  <img src="Photos/DSC_0875.jpg" alt="DSC_0875" style="width:100%">
+  <img src="Photos/DSC_0876.jpg" alt="DSC_0876" style="width:100%">
+  <img src="Photos/DSC_0881.jpg" alt="DSC_0881" style="width:100%">
+  <img src="Photos/DSC_0885.jpg" alt="DSC_0885" style="width:100%">
+  <img src="Photos/DSC_0901.jpg" alt="DSC_0901" style="width:100%">
+  <img src="Photos/DSC_0906.jpg" alt="DSC_0906" style="width:100%">
+  <img src="Photos/DSC_0907.jpg" alt="DSC_0907" style="width:100%">
+  <img src="Photos/DSC_0910.jpg" alt="DSC_0910" style="width:100%">
+  <img src="Photos/DSC_0911.jpg" alt="DSC_0911" style="width:100%">
+  <img src="Photos/DSC_0931.jpg" alt="DSC_0931" style="width:100%">
+  <img src="Photos/DSC_0938.jpg" alt="DSC_0938" style="width:100%">
+  <img src="Photos/DSC_0946.jpg" alt="DSC_0946" style="width:100%">
+  <img src="Photos/DSC_0947.jpg" alt="DSC_0947" style="width:100%">
+  <img src="Photos/DSC_0950.jpg" alt="DSC_0950" style="width:100%">
+  <img src="Photos/DSC_0958.jpg" alt="DSC_0958" style="width:100%">
+  <img src="Photos/DSC_0965.jpg" alt="DSC_0965" style="width:100%">
+  <img src="Photos/DSC_0966.jpg" alt="DSC_0966" style="width:100%">
+  <img src="Photos/DSC_0967.jpg" alt="DSC_0967" style="width:100%">
+  <img src="Photos/DSC_0968.jpg" alt="DSC_0968" style="width:100%">
+  <img src="Photos/DSC_0973.jpg" alt="DSC_0973" style="width:100%">
+  <img src="Photos/DSC_0974.jpg" alt="DSC_0974" style="width:100%">
+  <img src="Photos/DSC_0988-2.jpg" alt="DSC_0988-2" style="width:100%">
+  <img src="Photos/DSC_0988.jpg" alt="DSC_0988" style="width:100%">
+  <img src="Photos/DSC_0989-2.jpg" alt="DSC_0989-2" style="width:100%">
+  <img src="Photos/DSC_0989.jpg" alt="DSC_0989" style="width:100%">
+  <img src="Photos/DSC_0992.jpg" alt="DSC_0992" style="width:100%">
+  <img src="Photos/DSC_0993.jpg" alt="DSC_0993" style="width:100%">
+  <img src="Photos/DSC_0995.jpg" alt="DSC_0995" style="width:100%">
+  <img src="Photos/DSC_0996.jpg" alt="DSC_0996" style="width:100%">
+  <img src="Photos/DSC_0998.jpg" alt="DSC_0998" style="width:100%">
+  <img src="Photos/DSC_1003.jpg" alt="DSC_1003" style="width:100%">
+  <img src="Photos/DSC_1007.jpg" alt="DSC_1007" style="width:100%">
+  <img src="Photos/DSC_1009.jpg" alt="DSC_1009" style="width:100%">
+  <img src="Photos/DSC_1012.jpg" alt="DSC_1012" style="width:100%">
+  <img src="Photos/DSC_1013.jpg" alt="DSC_1013" style="width:100%">
+  <img src="Photos/DSC_1015.jpg" alt="DSC_1015" style="width:100%">
+  <img src="Photos/DSC_1016.jpg" alt="DSC_1016" style="width:100%">
+  <img src="Photos/DSC_1022.jpg" alt="DSC_1022" style="width:100%">
+  <img src="Photos/DSC_1023.jpg" alt="DSC_1023" style="width:100%">
+  <img src="Photos/DSC_1031.jpg" alt="DSC_1031" style="width:100%">
+  <img src="Photos/DSC_1032.jpg" alt="DSC_1032" style="width:100%">
+  <img src="Photos/DSC_1036.jpg" alt="DSC_1036" style="width:100%">
+</div>
