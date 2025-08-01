@@ -58,6 +58,8 @@ Grant writing tips shared by some of our speakers on our LinkedIn
 - [Logic model guide](/Resources/Logic_Model_Guide_AGA_2262_ARTWORK_FINAL_07.09.16_1.pdf)
 - [Population and systemsmedicine: research grant](/Resources/Population%20and%20systems%20medicine_%20research%20grant%20–%20UKRI.pdf)
 - [Research plan template domestic](/Resources/Research%20Plan%20Template_Domestic.docx)
+- [Reporting checklist for PPIE](https://www.bmj.com/content/358/bmj.j3453)
+- [NHS digital literacy tool](https://readability.ncldata.dev/)
 
 
 # Photos
