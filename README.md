@@ -53,11 +53,11 @@ This is a plain language summary selected by NIHR as an example of good practic
 - [Speaker top tips](https://www.linkedin.com/feed/update/urn:li:activity:7333423122911543296/)
 Grant writing tips shared by some of our speakers on our LinkedIn
 
-- [NIHR Domestic Outline Application Form Template](/Resources/domestic-outline-application-form-template.docx)
-- [Gene app and logic model](/Resources/Gene%20app%20and%20logic%20model.pptx)
-- [Logic model guide](/Resources/Logic_Model_Guide_AGA_2262_ARTWORK_FINAL_07.09.16_1.pdf)
-- [Population and systemsmedicine: research grant](/Resources/Population%20and%20systems%20medicine_%20research%20grant%20–%20UKRI.pdf)
-- [Research plan template domestic](/Resources/Research%20Plan%20Template_Domestic.docx)
+- [NIHR Domestic Outline Application Form Template](Resources/domestic-outline-application-form-template.docx)
+- [Gene app and logic model](Resources/Gene%20app%20and%20logic%20model.pptx)
+- [Logic model guide](Resources/Logic_Model_Guide_AGA_2262_ARTWORK_FINAL_07.09.16_1.pdf)
+- [Population and systemsmedicine: research grant](Resources/Population%20and%20systems%20medicine_%20research%20grant%20–%20UKRI.pdf)
+- [Research plan template domestic](Resources/Research%20Plan%20Template_Domestic.docx)
 - [Reporting checklist for PPIE](https://www.bmj.com/content/358/bmj.j3453)
 - [NHS digital literacy tool](https://readability.ncldata.dev/)
 
